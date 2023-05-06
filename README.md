@@ -1,2 +1,3 @@
 # printf
-versuch etwas hochzuladen
+Der Compiler der verwendet wird ist clang12
+Der Edito der verwendet wird ist vim
